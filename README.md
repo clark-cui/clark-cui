@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning  Deno Svetle Serverless.
 - 👯 I plan to contribute to Open-Source project.
 - 💬 Ask me about Javascript TypeScript Vue Webpack.
-- 📫 How to reach me: [gmail](rongchuancui@gmail.com).
+- 📫 How to reach me: <a href="rongchuancui@gmail.com">send me email</a>
