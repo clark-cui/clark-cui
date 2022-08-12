@@ -3,5 +3,3 @@
 ### I am building in web3.🪝
 
 ![](https://github-readme-stats.vercel.app/api?username=clark-cui&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
-
-<img src="https://wakatime.com/share/@4f3f1e42-9b98-411c-a0de-6a27d90d96b1/6a2a1c07-96bc-471f-9481-b26838e422fd.svg" width="50%" height="50%" >
