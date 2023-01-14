@@ -7,6 +7,6 @@
 </picture>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clark-cui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=clark-cui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
