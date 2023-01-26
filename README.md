@@ -1,4 +1,4 @@
-### 👋 Hi friends I'm [clark-cui](https://clark-cui.top), I am building in web3.
+### 👋 Hi friends I'm [clark-cui](https://clark-cui.top), building in web3.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=clark-cui.visitor-badge)
 
 <picture>
